@@ -15,7 +15,7 @@ Lesson 3: Web Scraping and GIS.ipynb
 
 Scrape data from websites and create choropleth (heat) maps. Example code from RitVikMath (https://github.com/ritvikmath/StarbucksStoreScraping) scrapes information about Starbucks locations in Las Angeles.
 
-Lesson 4: Voronoi Polygons.ipynb
+Lesson 4: Voronoi Polygons - Voromap.ipynb
 
 Create Voronoi Polygons overlayed on a map to partition the customer base and determine the catchment area for each organization.
 Example code from JeffMyLife (https://github.com/jeffmylife/casual/blob/master/Voromap.ipynb) to show hospitals in the US with heliports and the geographic areas they service.
